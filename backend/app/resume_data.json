@@ -1,0 +1,23 @@
+{
+    "name": "陈思远",
+    "email": "siyuan.chen@example.com",
+    "phone": "+86 138-0000-8888",
+    "city": "上海",
+    "degree": "硕士",
+    "school": "复旦大学",
+    "major": "计算机科学与技术",
+    "graduation_year": "2018",
+    "work_experience": "字节跳动 · 前端开发工程师 · 2018-2021\n负责抖音H5活动页开发,使用React+TypeScript,优化页面性能,首屏加载时间缩短30%。\n参与组件库建设,封装通用业务组件20+。\n\n阿里巴巴 · 高级前端工程师 · 2021-至今\n负责淘宝首页推荐模块的前端架构，采用Next.js+SSR，日均PV 5000万+。\n主导前端监控体系搭建，错误率降低45%。",
+    "skills": [
+        "React",
+        "TypeScript",
+        "Next.js",
+        "Webpack",
+        "Vite",
+        "Sass",
+        "Node.js",
+        "Jest"
+    ],
+    "projects": "智能客服系统 (2020)\n使用React+Node.js+Socket.io构建实时聊天界面，支持多轮对话，日活用户10万+。\n\n简历微调助手 (2023)\n基于OpenAI API + FastAPI + React，实现智能简历优化，帮助用户匹配职位。",
+    "other": "雅思7.5，PMP认证，技术博客作者，GitHub 2k stars，热爱开源与分享。"
+}
